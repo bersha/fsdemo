@@ -2,7 +2,7 @@
   border-radius: 12px;
   margin-bottom: 40px;
   display: flex;
-  background-color: #FFFFFF;
+  background-color: #FFF;
   flex-direction: column;
   padding: 20px;
 }
@@ -10,7 +10,7 @@
 @media (width >= 900px) {
   .offer-content {
     padding: 50px 191px 50px 334px;
-    background: #FFFFFF;
+    background: #FFF;
     flex-direction: column;
     gap: 120px;
   }
